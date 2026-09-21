@@ -1,0 +1,2 @@
+Taruh gambar per baris lirik di folder ini (01.jpg, 02.jpg, ...),
+lalu daftarkan path-nya di src/config/art.ts -> LINE_IMAGES.
